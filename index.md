@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-You can use the [editor on GitHub](https://github.com/soportetenicoangel/soportetenicoangel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenido a la Empresa DE  Tenicos  DE Soporte
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NOSOTROS LE BRINDAMOS  CON EL MEJOR SERVICIO DE TENICO  LO QUE NESECITE NOS PUEDES COTACTAR A CUALQUIER HORA DE 9:00AM ASTA LAS 10:O0 Y CUAL QUIER DIA Y NUESTRO SERVICIO LE BRINDA POR TODO UN AÑO Y ESTAMOS A SUS ORDENES  EN CUALQUIER MOMENTO NOS PUEDE LLAMAR
 
-### Markdown
+HORARIO 
+LUNES A VERNES 9:00 AM DE 10:00
+SABADOS A DOMINGOS 10:00AM DE 9:00 PM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ESTOS NUMEROS DE  NUESTROS TECNICO PARA AYUDAR EN NUESTRO SERVICIO SOPORTE TECNICO
+TELEFONO SOPORTE TENICO PRESENCIAL  5542009628
+TELEFONO SOPORTE TENICO Distancia   5546942852
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soportetenicoangel/soportetenicoangel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
