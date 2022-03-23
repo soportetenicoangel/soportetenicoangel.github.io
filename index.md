@@ -13,7 +13,4 @@ TELEFONO SOPORTE TENICO PRESENCIAL  5542009628
 TELEFONO SOPORTE TENICO Distancia   5546942852
  
 
-Nos ubicamos san pedro zaragoza esquina 
-Sorguana #321 poe si necita ayuda con su
-Computadora
 
