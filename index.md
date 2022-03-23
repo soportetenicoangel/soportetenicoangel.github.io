@@ -2,7 +2,7 @@
 
 ## Bienvenido a la Empresa de  Tecnicos de Soporte
 
-NOSOTROS LE BRINDAMOS  CON EL MEJOR SERVICIO DE TENICO  LO QUE NECESITE NOS PUEDES COTACTAR A CUALQUIER HORA DE 9:00 AM ASTA LAS 10:00 PM Y CUAL QUIER DIA Y NUESTRO SERVICIO LE BRINDA POR TODO UN AÑO Y ESTAMOS A SUS ORDENES  EN CUALQUIER MOMENTO NOS PUEDE LLAMAR
+Nosotros le brindamos  con el mejor servicio de tecnico  lo que neciste nos puede puedes contactar a cualquier hora de 9:00 AM asta las 10:00 PM y cual quier dia de  nuestro servicio le brinda por todo un año  y  estamos a sus ordenes  en cualquier momentos nos  puede llamar
 
 HORARIO  DE TENICOS
 LUNES A VERNES 9:00 AM DE 10:00 PM
