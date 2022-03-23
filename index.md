@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-## Bienvenido a la Empresa DE  Tenicos  DE Soporte
+## Bienvenido a la Empresa de  Tecnicos de Soporte
 
 NOSOTROS LE BRINDAMOS  CON EL MEJOR SERVICIO DE TENICO  LO QUE NECESITE NOS PUEDES COTACTAR A CUALQUIER HORA DE 9:00 AM ASTA LAS 10:00 PM Y CUAL QUIER DIA Y NUESTRO SERVICIO LE BRINDA POR TODO UN AÑO Y ESTAMOS A SUS ORDENES  EN CUALQUIER MOMENTO NOS PUEDE LLAMAR
 
