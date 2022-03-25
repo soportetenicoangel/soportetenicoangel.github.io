@@ -28,8 +28,8 @@ R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea má
    Este tipo de mantenimiento consiste en el cuidado del sistema en su ambiente externo, incluye básicamente las condiciones físicas de operación del sistema y la        prevención eléctrica.
    R Mantenimiento preventivo pasivo
    
-   Se encuentra insertado en la tarjeta madre, debido a que guarda el conjunto de instrucciones que permiten arrancar la computadora y posibilita la carga del sistema    operativo.
-   R El chip de memoria ROMEl chip de memoria ROM
+-  Se encuentra insertado en la tarjeta madre, debido a que guarda el conjunto de instrucciones que permiten arrancar la computadora y posibilita la carga del sistema    operativo.
+   R El chip de memoria ROM
    
 -  ¿Es la memoria que se utiliza para acelerar el proceso, es de alta velocidad, permite que el procesador tenga más rápido acceso a losdatos?
    R Cache
@@ -37,7 +37,8 @@ R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea má
 -  ¿Se le denomina así a la cantidad de bits que puede manipular simultáneamente el CPU
    R  Tamaño de la palabra
    
--  ¿Si quisiera tener una reunión con personas en Tokio, Londres, y Miami, ¿Qué tipo de programa sería la mejor opción para simular que todos estén en la misma            habitación?
+-  ¿Si quisiera tener una reunión con personas en Tokio, Londres, y Miami, ¿Qué tipo de programa sería la mejor opción para simular que todos estén en la misma            
+   habitación?
    R Teleconferencia  
 
 -  ¿Este tipo de mantenimiento involucra la limpieza del sistema y sus componentes la frecuencia con la cual se debe implementar este tipo de mantenimiento depende del    ambiente de la computadora y de la calidad de los componentes?
@@ -46,4 +47,6 @@ R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea má
 -  Este es el que guarda la información cuando apagamos la computadora, además aquí se guarda la mayoría de los programas y el sistema operativo.
    R El Disco Duro
    
+-  Es el elemento responsable de establecer una correcta interacción entrelos diferentes componentes del ordenador, es por lo tanto, el dispositivo principal de          comunicación
+   R  Bus
    
