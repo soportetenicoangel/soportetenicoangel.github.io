@@ -49,4 +49,21 @@ R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea má
    
 -  Es el elemento responsable de establecer una correcta interacción entrelos diferentes componentes del ordenador, es por lo tanto, el dispositivo principal de          comunicación
    R  Bus
+
+-  ¿Cuál es la principal ventaja de usar Notebook o Laptop?
+   R Portabilidad 
    
+-  ¿En qué opción del panel del control se deben configurar el teclado y el mouse?
+   R  Hardware y Sonido 
+   
+- ¿La característica principal de este tipo de mantenimiento es la de inspeccionar los equipos y detectar las fallas en sufase inicial, y corregirlas en el momento        oportuno
+   R Mantenimiento preventivo
+   
+-  ¿Cuáles de los siguientes elementos son verdaderos?
+   R Todos los teléfonos celulares incluyen software de organización que puede ser activado
+   
+- ¿Es el conjunto (set) de chips que se encargan de controlar determinadasfunciones del ordenador, como la forma en que interacciona elmicroprocesador con la memoria     o la caché, o el control de los puertos yslots ISA, PCI, AGP, USB ?
+  R Chipset
+  
+- ¿Es la persona con mayor número de privilegios y derechos para hacer cualquier modificación en los equipos de un centro de cómputo.?
+- R Administrador de red 
