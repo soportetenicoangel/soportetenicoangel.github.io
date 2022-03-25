@@ -66,4 +66,11 @@ R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea má
   R Chipset
   
 - ¿Es la persona con mayor número de privilegios y derechos para hacer cualquier modificación en los equipos de un centro de cómputo.?
-- R Administrador de red 
+  R Administrador de red 
+
+- ¿Qué herramienta de Windows se debe ejecutar antes de actualizar el sistema operativo?
+  R Ntbackup
+  
+- ¿Qué caracteriza una suplantación de identidad?
+ R  Hacer que los datos parezcan provenientes de un origen distinto al origen real.
+
