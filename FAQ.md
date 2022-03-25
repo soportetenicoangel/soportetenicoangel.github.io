@@ -17,3 +17,33 @@ R:Estabas trabajando y, de repente, se apaga la computadora, uno de los momentos
 
 - ¿Que es el Funcionamiento lento ?
 R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea más simple, como abrir una ventana, se vuelva una tortura. Puede darse por muchos factores, pero la falta de mantenimiento es la razón más común. Accediendo al Administrador de Tareas de tu computadora podrás visualizar los programas que están funcionando y cerrar aquellos que no necesitás. Borrar información que ya no te sirve o descargar programas dedicados al mantenimiento ayudará a mejorar el funcionamiento de tu computadora.
+
+
+-  ¿Cuál de las siguientes afirmaciones sobre la memoria caché es cierta?
+   R La caché de nivel 1 es la más pequeña y la más rápida
+ 
+-  ¿Son programas que ayudan a resolver problemas de seguridad en el SO
+   R Utilerías 
+   
+   Este tipo de mantenimiento consiste en el cuidado del sistema en su ambiente externo, incluye básicamente las condiciones físicas de operación del sistema y la        prevención eléctrica.
+   R Mantenimiento preventivo pasivo
+   
+   Se encuentra insertado en la tarjeta madre, debido a que guarda el conjunto de instrucciones que permiten arrancar la computadora y posibilita la carga del sistema    operativo.
+   R El chip de memoria ROMEl chip de memoria ROM
+   
+-  ¿Es la memoria que se utiliza para acelerar el proceso, es de alta velocidad, permite que el procesador tenga más rápido acceso a losdatos?
+   R Cache
+   
+-  ¿Se le denomina así a la cantidad de bits que puede manipular simultáneamente el CPU
+   R  Tamaño de la palabra
+   
+-  ¿Si quisiera tener una reunión con personas en Tokio, Londres, y Miami, ¿Qué tipo de programa sería la mejor opción para simular que todos estén en la misma            habitación?
+   R Teleconferencia  
+
+-  ¿Este tipo de mantenimiento involucra la limpieza del sistema y sus componentes la frecuencia con la cual se debe implementar este tipo de mantenimiento depende del    ambiente de la computadora y de la calidad de los componentes?
+   R Mantenimiento preventivo activo
+
+-  Este es el que guarda la información cuando apagamos la computadora, además aquí se guarda la mayoría de los programas y el sistema operativo.
+   R El Disco Duro
+   
+   
