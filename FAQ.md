@@ -73,4 +73,71 @@ R¿Te pasó que la computadora comienza a funcionar muy lentamente? La tarea má
   
 - ¿Qué caracteriza una suplantación de identidad?
  R  Hacer que los datos parezcan provenientes de un origen distinto al origen real.
+ 
+-  Al instalar un adaptador de red en la computadora de un cliente, el técnico advierte que los contactos del adaptador requieren limpieza. ¿Qué solución debe utilizar    el técnico para limpiar los contactos? 
+   R Alcohol isopropílicoc.Detergente suave 
+   
+   
+ - Un usuario envió un informe de problema porque no puede acceder a ningún dispositivo en la red. ¿Qué herramienta puede utilizar el técnico de red para verificar        rápidamente si la computadora tiene una dirección IP válida?
+  R  Ipconfig
+  
+  
+- ¿Qué información se añade a la tabla de cambio de tramas entrantes?
+  R dirección MAC de origen y el númerode puerto entrante
+  
+  
+- ¿Qué tipo de transmisión qué utiliza un interruptor cuando la dirección MAC de destino no está contenida en la tabla de direcciones MAC?
+- R  broadcast
+
+
+- ¿Cuáles de las siguientes son funciones de los protocolos de capa 3 de OSI?
+- R Direccionamiento lógico
+
+
+-¿Cuáles de los siguientes protocolos son ejemplos de protocolos de la capa de transporte TCP / IP? 
+R UDP, TCP
+
+
+-¿Cuál de las siguientes opciones es un dispositivo o función cuya característica más notable es cifrar lospaquetes antes de que atraviesen Internet?
+R  VPN
+
+
+-¿Cuál de los siguientes términos se utiliza específicamente para identificar la entidad que se crea cuando se encapsulan los datos dentro de las cabeceras de la capa de enlace y las informaciones finales?
+R  TRAMA
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
