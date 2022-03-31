@@ -11,7 +11,7 @@ telefono: <input type="tel">
   
 FELLAS DE SERVICIOS: <input type="datetime-local">
   
-CALIFICASION DE SERVISIO: <input type="range">
+CALIFICAION DE SERVISIO: <input type="range">
 
 <input type="submit">
 </form>
