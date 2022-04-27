@@ -1,7 +1,7 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 
-## soporte  mantenimiento adistancia
+## soporte  mantenimiento a distancia
 El soporte técnico a distancia busca solucionar de manera remota las posibles fallas de una computadora o dispositivo electrónico, ya sea un problema físico de alguna de sus piezas (hardware) o del programa o sistema operativo que se esté utilizando (software)
 
 - soporte mantenimiento prencencial:
